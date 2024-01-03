@@ -1,4 +1,4 @@
-import "./globals.css"
+import "../Styles/globals.css"
 import Hero from "../Components/Hero"
 import About from "../Components/About"
 import Prevention from "../Components/Prevention"
